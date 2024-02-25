@@ -1,0 +1,236 @@
+[
+  {
+    "Id": 0,
+    "numerical": 0,
+    "thokNaath": "Baŋ",
+    "thokNaath_pronunciation": "B-ang",
+    "English_correct": "0",
+    "english_one": "20",
+    "english_two": "9",
+    "english_three": "3",
+    "image":"http://localhost:5050/public/zero.jpg"
+   
+  },
+  
+  {
+    "Id": 1,
+    "numerical": 1,
+    "thokNaath": "Kɛl",
+    "thokNaath_pronunciation": "k-el",
+    "English_correct": "1",
+    "english_one": "3",
+    "english_two": "5",
+    "english_three": "8",
+    "image":"http://localhost:5050/public/one.jpg"
+  },
+  {
+    "Id": 2,
+    "numerical": 2,
+    "thokNaath": "Rɛw",
+    "thokNaath_pronunciation": "R-ew",
+    "English_correct": "2" ,
+    "english_one": "8",
+    "english_two": "82",
+    "english_three": "20",
+    "image":"http://localhost:5050/public/two.jpg"
+  },
+  {
+    "Id": 3,
+    "numerical": 3,
+    "thokNaath": "Diɔ̱k",
+    "thokNaath_pronunciation": "D-eo-ck",
+    "English_correct": "3",
+    "english_one": "4",
+    "english_two": "16",
+    "english_three": "2",
+    "image":"http://localhost:5050/public/three.jpg"
+  },
+  {
+    "Id": 4,
+    "numerical": 4,
+    "thokNaath": "ŋuaan",
+    "thokNaath_pronunciation": "ng-ua-n",
+    "English_correct": "4",
+    "english_one": "5",
+    "english_two": "1",
+    "english_three": "9",
+    "image":"http://localhost:5050/public/four.jpg"
+  },
+  {
+    "Id": 5,
+    "numerical": 5,
+    "thokNaath": "Dhiec",
+    "thokNaath_pronunciation": "Th-ee-ch",
+    "English_correct": "5"  ,
+    "english_one": "9",
+    "english_two": "5",
+    "english_three": "2",
+    "image":"http://localhost:5050/public/five.jpg"
+  },
+  {
+    "Id": 6,
+    "numerical": 6,
+    "thokNaath": "Bäkɛl",
+    "thokNaath_pronunciation": "B-a-ng",
+    "English_correct": "6" ,
+    "english_one": "9",
+    "english_two": "5",
+    "english_three": "20",
+    "image":"http://localhost:5050/public/six.jpg" 
+  },
+  {
+    "Id": 7,
+    "numerical": 7,
+    "thokNaath": "Bärɔw",
+    "thokNaath_pronunciation": "B-e-row",
+    "English_correct": "7" ,
+    "english_one": "8",
+    "english_two": "10",
+    "english_three": "5",
+    "image":"http://localhost:5050/public/seven.jpg"
+  },
+  {
+    "Id": 8,
+    "numerical": 8,
+    "thokNaath": "Bädäk",
+    "thokNaath_pronunciation": "B-a-dak",
+    "English_correct": "8" ,
+    "english_one": "9",
+    "english_two": "10",
+    "english_three": "19",
+    "image":"http://localhost:5050/public/eight.jpg"
+  },
+  {
+    "Id": 9,
+    "numerical": 9,
+    "thokNaath": "Bäŋuan",
+    "thokNaath_pronunciation": "B-a-ng",
+    "English_correct": "9",
+    "english_one": "5",
+    "english_two": "4",
+    "english_three": "1",
+    "image":"http://localhost:5050/public/nine.jpg"
+  },
+  {
+    "Id": 10,
+    "numerical": 10,
+    "thokNaath": "Wäl",
+    "thokNaath_pronunciation": "W-al",
+    "English_correct": "10",
+    "english_one": "9",
+    "english_two": "5",
+    "english_three": "20",
+    "image":"http://localhost:5050/public/ten.jpg"
+  },
+  {
+    "Id": 11,
+    "numerical": 11,
+    "thokNaath": "Wäl Kɛl",
+    "thokNaath_pronunciation": "W-omb",
+    "English_correct": "11",
+    "english_one": "8",
+    "english_two": "9",
+    "english_three": "20",
+    "image":"http://localhost:5050/public/eleven.jpg"
+  },
+  {
+    "Id": 12,
+    "numerical": 12,
+    "thokNaath": "Wäl Rɛw",
+    "thokNaath_pronunciation": "R-ew",
+    "English_correct": "12",
+    "english_one": "64",
+    "english_two": "58",
+    "english_three": "55",
+    "image":"http://localhost:5050/public/twelve.jpg"
+  },
+  {
+    "Id": 13,
+    "numerical": 13,
+    "thokNaath": "Wäl Diɔ̱k",
+    "thokNaath_pronunciation": "W-al D-eo-ck" ,
+    "English_correct": "13",
+    "english_one": "16",
+    "english_two": "14",
+    "english_three": "11",
+    "image":"http://localhost:5050/public/thirteen.jpg"
+  },
+  {
+    "Id": 14,
+    "numerical": 14,
+    "thokNaath": "Wäl ŋuaan",
+    "thokNaath_pronunciation": "W-al ng-ua-n",
+    "English_correct": "14",
+    "english_one": "52",
+    "english_two": "10",
+    "english_three": "9",
+    "image":"http://localhost:5050/public/fourteen.jpg"
+  },
+  {
+    "Id": 15,
+    "numerical": 15,
+    "thokNaath": "Wäl Dhiec",
+    "thokNaath_pronunciation": "W-al Th-ee-ch",
+    "English_correct": "15",
+    "english_one": "9",
+    "english_two": "2",
+    "english_three": "5",
+    "image":"http://localhost:5050/public/15.jpg"
+  },
+  {
+    "Id": 16,
+    "numerical": 16,
+    "thokNaath": "Wäl Bäkɛl",
+    "thokNaath_pronunciation": "W-al B-a-ng",
+    "English_correct": "16",
+    "english_one": "65",
+    "english_two": "75",
+    "english_three": "6",
+    "image":"http://localhost:5050/public/16.jpg"
+  },
+  {
+    "Id": 17,
+    "numerical": 17,
+    "thokNaath": "Wäl Bärɔw",
+    "thokNaath_pronunciation": "W-al B-e-row",
+    "English_correct": "17",
+    "english_one": "6",
+    "english_two": "2",
+    "english_three": "8",
+    "image":"http://localhost:5050/public/17.jpg"
+  },
+  {
+    "Id": 18,
+    "numerical": 18,
+    "thokNaath": "Wäl Bädäk",
+    "thokNaath_pronunciation": "W-al B-a-dak",
+    "English_correct": "19",
+    "english_one": "863",
+    "english_two": "85",
+    "english_three": "6",
+    "image":"http://localhost:5050/public/18.jpg"
+  },
+  {
+    "Id": 19,
+    "numerical": 19,
+    "thokNaath": "Wäl Bäŋuan",
+    "thokNaath_pronunciation": "W-al B-a-ng",
+    "English_correct": "19",
+    "english_one": "6",
+    "english_two": "8",
+    "english_three": "7",
+    "image":"http://localhost:5050/public/19.jpg"
+  },
+  {
+    "Id": 20,
+    "numerical": 20,
+    "thokNaath": "Jɛn Rɛw",
+    "thokNaath_pronunciation": "W-al",
+    "English_correct": "20",
+    "english_one": "75",
+    "english_two": "19",
+    "english_three": "65",
+    "image":"http://localhost:5050/public/20.jpg"
+  }
+]
+

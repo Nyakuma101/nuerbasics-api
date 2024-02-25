@@ -2,108 +2,213 @@
   {
     "Id": 0,
     "thokNaath": "yil",
-    "English": "waterlily"
+    "thokNaath_pronunciation": "W-omb",
+    "English_correct": "waterlily",
+    "english_one": "Leg",
+    "english_two": "Nostril",
+    "english_three": "Eye",
+    "image":"http://localhost:5050/public/goose.png"
     
   },
   {
     "Id": 1,
     "thokNaath": "thiɛl",
-    "English": "thistle"
+    "thokNaath_pronunciation": "W-omb",
+    "English_correct": "thistle",
+    "english_one": "Leg",
+    "english_two": "Nostril",
+    "english_three": "Eye",
+    "image":"http://localhost:5050/public/goose.png"
   },
   {
     "Id": 2,
     "thokNaath": "jiath",
-    "English": "tree" 
+    "thokNaath_pronunciation": "W-omb",
+    "English_correct": "tree" ,
+    "english_one": "Leg",
+    "english_two": "Nostril",
+    "english_three": "Eye",
+    "image":"http://localhost:5050/public/goose.png"
   },
   {
     "Id": 3,
     "thokNaath": "kaar",
-    "English": "branch"
+    "thokNaath_pronunciation": "W-omb",
+    "English_correct": "branch",
+    "english_one": "Leg",
+    "english_two": "Nostril",
+    "english_three": "Eye",
+    "image":"http://localhost:5050/public/goose.png"
   },
   {
     "Id": 4,
     "thokNaath": "kuɛ̈ɛ̈",
-    "English": "seed"
+    "thokNaath_pronunciation": "W-omb",
+    "English_correct": "seed",
+    "english_one": "Leg",
+    "english_two": "Nostril",
+    "english_three": "Eye",
+    "image":"http://localhost:5050/public/goose.png"
   },
   {
     "Id": 5,
     "thokNaath": "juac",
-    "English": "grass "  
+    "thokNaath_pronunciation": "W-omb",
+    "English_correct": "grass " ,
+    "english_one": "Leg",
+    "english_two": "Nostril",
+    "english_three": "Eye",
+    "image":"http://localhost:5050/public/goose.png" 
   },
   {
     "Id": 6,
     "thokNaath": "lɔu",
-    "English": "bamboo"  
+    "thokNaath_pronunciation": "W-omb",
+    "English_correct": "bamboo"  ,
+    "english_one": "Leg",
+    "english_two": "Nostril",
+    "english_three": "Eye",
+    "image":"http://localhost:5050/public/goose.png"
   },
   {
     "Id": 7,
     "thokNaath": "bua̱w",
-    "English": "fruit tree" 
+    "thokNaath_pronunciation": "W-omb",
+    "English_correct": "fruit tree" ,
+    "english_one": "Leg",
+    "english_two": "Nostril",
+    "english_three": "Eye",
+    "image":"http://localhost:5050/public/goose.png"
   },
   {
     "Id": 8,
     "thokNaath": "kɔat",
-    "English": "tamarind" 
+    "thokNaath_pronunciation": "W-omb",
+    "English_correct": "tamarind" ,
+    "english_one": "Leg",
+    "english_two": "Nostril",
+    "english_three": "Eye",
+    "image":"http://localhost:5050/public/goose.png"
   },
   {
     "Id": 9,
     "thokNaath": "no̱r",
-    "English": "palm tree"
+    "thokNaath_pronunciation": "W-omb",
+    "English_correct": "palm tree",
+    "english_one": "Leg",
+    "english_two": "Nostril",
+    "english_three": "Eye",
+    "image":"http://localhost:5050/public/goose.png"
   },
   {
     "Id": 10,
     "thokNaath": "ŋuer",
-    "English": "paperbark thorn"
+    "thokNaath_pronunciation": "W-omb",
+    "English_correct": "paperbark thorn",
+    "english_one": "Leg",
+    "english_two": "Nostril",
+    "english_three": "Eye",
+    "image":"http://localhost:5050/public/goose.png"
   },
   {
     "Id": 11,
     "thokNaath": "rɔ̱k",
-    "English": "sycamore fig"
+    "thokNaath_pronunciation": "W-omb",
+    "English_correct": "sycamore fig",
+    "english_one": "Leg",
+    "english_two": "Nostril",
+    "english_three": "Eye",
+    "image":"http://localhost:5050/public/goose.png"
   },
   {
     "Id": 12,
     "thokNaath": "ŋɔ̱p",
-    "English": "mulberry"
+    "thokNaath_pronunciation": "W-omb",
+    "English_correct": "mulberry",
+    "english_one": "Leg",
+    "english_two": "Nostril",
+    "english_three": "Eye",
+    "image":"http://localhost:5050/public/goose.png"
   },
   {
     "Id": 13,
     "thokNaath": "thɔ̱w",
-    "English": "balsam"
+    "thokNaath_pronunciation": "W-omb",
+    "English_correct": "balsam",
+    "english_one": "Leg",
+    "english_two": "Nostril",
+    "english_three": "Eye",
+    "image":"http://localhost:5050/public/goose.png"
   },
   {
     "Id": 14,
     "thokNaath": "rɔany",
-    "English": "stalk"
+    "thokNaath_pronunciation": "W-omb",
+    "English_correct": "stalk",
+    "english_one": "Leg",
+    "english_two": "Nostril",
+    "english_three": "Eye",
+    "image":"http://localhost:5050/public/goose.png"
   },
   {
     "Id": 15,
     "thokNaath": "",
-    "English": ""
+    "thokNaath_pronunciation": "W-omb",
+    "English_correct": "",
+    "english_one": "Leg",
+    "english_two": "Nostril",
+    "english_three": "Eye",
+    "image":"http://localhost:5050/public/goose.png"
   },
   {
     "Id": 16,
     "thokNaath": "",
-    "English": ""
+    "thokNaath_pronunciation": "W-omb",
+    "English_correct": "",
+    "english_one": "Leg",
+    "english_two": "Nostril",
+    "english_three": "Eye",
+    "image":"http://localhost:5050/public/goose.png"
   },
   {
     "Id": 17,
     "thokNaath": "",
-    "English": ""
+    "thokNaath_pronunciation": "W-omb",
+    "English_correct": "",
+    "english_one": "Leg",
+    "english_two": "Nostril",
+    "english_three": "Eye",
+    "image":"http://localhost:5050/public/goose.png"
   },
   {
     "Id": 18,
     "thokNaath": "",
-    "English": ""
+    "thokNaath_pronunciation": "W-omb",
+    "English_correct": "",
+    "english_one": "Leg",
+    "english_two": "Nostril",
+    "english_three": "Eye",
+    "image":"http://localhost:5050/public/goose.png"
   },
   {
     "Id": 19,
     "thokNaath": "",
-    "English": ""
+    "thokNaath_pronunciation": "W-omb",
+    "English_correct": "",
+    "english_one": "Leg",
+    "english_two": "Nostril",
+    "english_three": "Eye",
+    "image":"http://localhost:5050/public/goose.png"
   },
   {
     "Id": 20,
     "thokNaath": "",
-    "English": ""
+    "thokNaath_pronunciation": "W-omb",
+    "English_correct": "",
+    "english_one": "Leg",
+    "english_two": "Nostril",
+    "english_three": "Eye",
+    "image":"http://localhost:5050/public/goose.png"
   }
 ]
 

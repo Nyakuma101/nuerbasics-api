@@ -7,7 +7,8 @@
     "english_one": "Head",
     "english_two": "Toes",
     "english_three": "Finger",
-    "image":"http://localhost:5050/public/Catfish.png"
+    "image":"http://localhost:5050/public/Images/anatomy/nose.png"
+
 
    
   },

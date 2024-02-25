@@ -2,108 +2,211 @@
   {
     "Id": 0,
     "thokNaath": "kuɔ̱ɔ̱t",
-    "English": "cat",
-    "image":"Images/animals/Catfish.png"
+    "thokNaath_pronunciation": "W-omb",
+    "english_correct": "cat",
+    "english_one": "Head",
+    "english_two": "Toes",
+    "english_three": "Finger",
+    "image":"http://localhost:5050/public/Images/anatomy/nose.png"
   },
   {
     "Id": 1,
     "thokNaath": "rɔw",
-    "English": "hippoptamus"
+    "thokNaath_pronunciation": "W-omb",
+    "English_correct": "hippoptamus",
+    "english_one": "Head",
+    "english_two": "Toes",
+    "english_three": "Finger",
+    "image":"http://localhost:5050/public/Images/anatomy/nose.png"
   },
   {
     "Id": 2,
     "thokNaath": "lony",
-    "English": "lion" 
+    "thokNaath_pronunciation": "W-omb",
+    "English_correct": "lion",
+    "english_one": "Head",
+    "english_two": "Toes",
+    "english_three": "Finger",
+    "image":"http://localhost:5050/public/Images/anatomy/nose.png"
   },
   {
     "Id": 3,
     "thokNaath": "nyaŋ",
-    "English": "crocodile"
+    "thokNaath_pronunciation": "W-omb",
+    "English_correct": "crocodile",
+    "english_one": "Head",
+    "english_two": "Toes",
+    "english_three": "Finger",
+    "image":"http://localhost:5050/public/Images/anatomy/nose.png"
   },
   {
     "Id": 4,
     "thokNaath": "tuaar",
-    "English": "bee"
+    "thokNaath_pronunciation": "W-omb",
+    "English_correct": "bee",
+    "english_one": "Head",
+    "english_two": "Toes",
+    "english_three": "Finger",
+    "image":"http://localhost:5050/public/Images/anatomy/nose.png"
   },
   {
     "Id": 5,
     "thokNaath": "jio̱k",
-    "English": "dog"  
+    "thokNaath_pronunciation": "W-omb",
+    "English_correct": "dog" ,
+    "english_one": "Head",
+    "english_two": "Toes",
+    "english_three": "Finger",
+    "image":"http://localhost:5050/public/Images/anatomy/nose.png"
   },
   {
     "Id": 6,
     "thokNaath": "kacik",
-    "English": "donkey"  
+    "thokNaath_pronunciation": "W-omb",
+    "English_correct": "donkey" ,
+    "english_one": "Head",
+    "english_two": "Toes",
+    "english_three": "Finger",
+    "image":"http://localhost:5050/public/Images/anatomy/nose.png"
   },
   {
     "Id": 7,
     "thokNaath": "guɔ̱r",
-    "English": "elephant" 
+    "thokNaath_pronunciation": "W-omb",
+    "English_correct": "elephant",
+    "english_one": "Head",
+    "english_two": "Toes",
+    "english_three": "Finger",
+    "image":"http://localhost:5050/public/Images/anatomy/nose.png" 
   },
   {
     "Id": 8,
     "thokNaath": "diɛɛr",
-    "English": "cricket" 
+    "thokNaath_pronunciation": "W-omb",
+    "English_correct": "cricket" ,
+    "english_one": "Head",
+    "english_two": "Toes",
+    "english_three": "Finger",
+    "image":"http://localhost:5050/public/Images/anatomy/nose.png"
   },
   {
     "Id": 9,
     "thokNaath": "yew",
-    "English": "catfish"
+    "thokNaath_pronunciation": "W-omb",
+    "English_correct": "catfish",
+    "english_one": "Head",
+    "english_two": "Toes",
+    "english_three": "Finger",
+    "image":"http://localhost:5050/public/Images/anatomy/nose.png"
   },
   {
     "Id": 10,
     "thokNaath": "luth",
-    "English": "mudfish"
+    "thokNaath_pronunciation": "W-omb",
+    "English_correct": "mudfish","english_one": "Head",
+    "english_two": "Toes",
+    "english_three": "Finger",
+    "image":"http://localhost:5050/public/Images/anatomy/nose.png"
   },
   {
     "Id": 11,
     "thokNaath": "riel",
-    "English": "eel"
+    "thokNaath_pronunciation": "W-omb",
+    "English_correct": "eel",
+    "english_one": "Head",
+    "english_two": "Toes",
+    "english_three": "Finger",
+    "image":"http://localhost:5050/public/Images/anatomy/nose.png"
   },
   {
     "Id": 12,
     "thokNaath": "ti̱el",
-    "English": "fish"
+    "thokNaath_pronunciation": "W-omb",
+    "English_correct": "fish",
+    "english_one": "Head",
+    "english_two": "Toes",
+    "english_three": "Finger",
+    "image":"http://localhost:5050/public/Images/anatomy/nose.png"
   },
   {
     "Id": 13,
     "thokNaath": "wuut",
-    "English": "ostrich"
+    "thokNaath_pronunciation": "W-omb",
+    "English_correct": "ostrich",
+    "english_one": "Head",
+    "english_two": "Toes",
+    "english_three": "Finger",
+    "image":"http://localhost:5050/public/Images/anatomy/nose.png"
   },
   {
     "Id": 14,
     "thokNaath": "tuɔ̱t",
-    "English": "goose"
+    "thokNaath_pronunciation": "W-omb",
+    "English_correct": "goose",
+    "english_one": "Head",
+    "english_two": "Toes",
+    "english_three": "Finger",
+    "image":"http://localhost:5050/public/Images/anatomy/nose.png"
   },
   {
     "Id": 15,
     "thokNaath": "miit",
-    "English": "firefly"
+    "thokNaath_pronunciation": "W-omb",
+    "English_correct": "firefly",
+    "english_one": "Head",
+    "english_two": "Toes",
+    "english_three": "Finger",
+    "image":"http://localhost:5050/public/Images/anatomy/nose.png"
   },
   {
     "Id": 16,
     "thokNaath": "manpalɛ̈k",
-    "English": "hen"
+    "thokNaath_pronunciation": "W-omb",
+    "English_correct": "hen",
+    "english_one": "Head",
+    "english_two": "Toes",
+    "english_three": "Finger",
+    "image":"http://localhost:5050/public/Images/anatomy/nose.png"
   },
   {
     "Id": 17,
     "thokNaath": "käät",
-    "English": "hawk"
+    "thokNaath_pronunciation": "W-omb",
+    "English_correct": "hawk",
+    "english_one": "Head",
+    "english_two": "Toes",
+    "english_three": "Finger",
+    "image":"http://localhost:5050/public/Images/anatomy/nose.png"
   },
   {
     "Id": 18,
     "thokNaath": "guɛk",
-    "English": "frog"
+    "thokNaath_pronunciation": "W-omb",
+    "English_correct": "frog",
+    "english_one": "Head",
+    "english_two": "Toes",
+    "english_three": "Finger",
+    "image":"http://localhost:5050/public/Images/anatomy/nose.png"
   },
   {
     "Id": 19,
     "thokNaath": "kerker",
-    "English": "lizard"
+    "thokNaath_pronunciation": "W-omb",
+    "English_correct": "lizard",
+    "english_one": "Head",
+    "english_two": "Toes",
+    "english_three": "Finger",
+    "image":"http://localhost:5050/public/Images/anatomy/nose.png"
   },
   {
     "Id": 20,
-    "thokNaath": "",
-    "English": ""
+    "thokNaath": "miit",
+    "thokNaath_pronunciation": "W-omb",
+    "English_correct": "firefly",
+    "english_one": "Head",
+    "english_two": "Toes",
+    "english_three": "Finger",
+    "image":"http://localhost:5050/public/Images/anatomy/nose.png"
   }
 ]
 
