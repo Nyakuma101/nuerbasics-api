@@ -1,107 +1,215 @@
 [
   {
-   "Id": 0,
-    "thokNaath": "wum",
-    "english": "nose"
+    "Id": 0,
+    "thokNaath": "Wum",
+    "thokNaath_pronunciation": "W-omb",
+    "english_correct": "Nose",
+    "english_one": "Head",
+    "english_two": "Toes",
+    "english_three": "Finger",
+    "image":"http://localhost:5050/public/Catfish.png"
+
+   
   },
   {
-   "Id": 1,
-   "thokNaath": "wi̱c",
-    "english": "head"
+    "Id": 1,
+    "thokNaath": "Wi̱c",
+    "thokNaath_pronunciation": "Which",
+    "english_correct": "Head",
+    "english_one": "Leg",
+    "english_two": "Nostril",
+    "english_three": "Eye",
+    "image":"http://localhost:5050/public/goose.png"
   },
   {
-   "Id": 2,
-   "thokNaath": "waŋ",
-    "english": "eye"
+    "Id": 2,
+    "thokNaath": "Waŋ",
+    "thokNaath_pronunciation": "W-ang",
+    "english_correct": "Eye",
+    "english_one": "Chin",
+    "english_two": "Head",
+    "english_three": "Fist",
+    "image": "Images/anatomy/Eyes-pana.png"
   },
   {
-   "Id": 3,
-   "thokNaath": "ti̱k",
-    "english": "chin"
+    "Id": 3,
+    "thokNaath": "Ti̱k",
+    "thokNaath_pronunciation": "T-ee-k",
+    "english_correct": "Chin",
+    "english_one": "Arm",
+    "english_two": "Calf",
+    "english_three": "Finger",
+    "image":""
   },
   {
-   "Id": 4,
-   "thokNaath": "thok",
-    "english": "mouth"
+    "Id": 4,
+    "thokNaath": "Thok",
+    "thokNaath_pronunciation": "Th-ouk",
+    "english_correct": "Mouth",
+    "english_one": "nose",
+    "english_two": "toes",
+    "english_three": "finger",
+    "image":""
   },
   {
-   "Id": 5,
-   "thokNaath": "nhiam",
-    "english": "face"
+    "Id": 5,
+    "thokNaath": "Nhiam",
+    "thokNaath_pronunciation": "N-iam",
+    "english_correct": "Face",
+    "english_one": "Forearm",
+    "english_two": "Wrist",
+    "english_three": "Buttocks",
+    "image":""
   },
   {
-   "Id": 6,
-   "thokNaath": "mi̱em",
-    "english": "hair"
+    "Id": 6,
+    "thokNaath": "Mi̱em",
+    "thokNaath_pronunciation": "M-iam",
+    "english_correct": "Hair",
+    "english_one": "Foot",
+    "english_two": "Forhead",
+    "english_three": "Shoulder",
+    "image":""
   },
   {
-   "Id": 7,
-   "thokNaath": "puɔ̱ny",
-    "english": "body"
+    "Id": 7,
+    "thokNaath": "Puɔ̱ny",
+    "thokNaath_pronunciation": "P-u-an",
+    "english_correct": "Body",
+    "english_one": "Ankle",
+    "english_two": "Finger",
+    "english_three": "Cheek",
+    "image":""
   },
   {
-   "Id": 8,
-   "thokNaath": "ji̱th",
-    "english": "ear"
+    "Id": 8,
+    "thokNaath": "Ji̱th",
+    "thokNaath_pronunciation": "J-i-th",
+    "english_correct": "Ear",
+    "english_one": "Cheek",
+    "english_two": "Neck",
+    "english_three": "Toes",
+    "image":""
   },
   {
-   "Id": 9,
-   "thokNaath": "cio̱o̱k",
-    "english": "leg, foot"
+    "Id": 9,
+    "thokNaath": "Cio̱o̱k",
+    "thokNaath_pronunciation": "Sh-ook",
+    "english_correct": "Leg, Foot",
+    "english_one": "Toes",
+    "english_two": "Mouth",
+    "english_three": "Fingers",
+    "image":""
   },
   {
-   "Id": 10,
-   "thokNaath": "muɔ̱l",
-    "english": "knee"
+    "Id": 10,
+    "thokNaath": "Muɔ̱l",
+    "thokNaath_pronunciation": "M-u-o-l",
+    "english_correct": "Knee",
+    "english_one": "Waist",
+    "english_two": "ear",
+    "english_three": "Thigh",
+    "image":""
   },
   {
-   "Id": 11,
-   "thokNaath": "tet",
-    "english": "hand"
+    "Id": 11,
+    "thokNaath": "Tet",
+    "thokNaath_pronunciation": "T-ea-t",
+    "english_correct": "hand",
+    "english_one": "nose",
+    "english_two": "toes",
+    "english_three": "Leg",
+    "image":""
   },
   {
-   "Id": 12,
-   "thokNaath": "yɛ̈t",
-    "english": "finger"
+    "Id": 12,
+    "thokNaath": "Yɛ̈t",
+    "thokNaath_pronunciation": "Y-et",
+    "english_correct": "Finger",
+    "english_one": "Knee",
+    "english_two": "Forehead",
+    "english_three": "Ankle",
+    "image":""
   },
   {
-   "Id": 13,
-   "thokNaath": "ci̱el",
-    "english": "elbow"
+    "Id": 13,
+    "thokNaath": "Ci̱el",
+    "thokNaath_pronunciation": "Sh-ei-l",
+    "english_correct": "Elbow",
+    "english_one": "Tooth",
+    "english_two": "Wrist",
+    "english_three": "finger",
+    "image":""
   },
   {
-   "Id": 14,
-   "thokNaath": "rɔ̱th",
-    "english": "armpit"
+    "Id": 14,
+    "thokNaath": "Rɔ̱th",
+    "thokNaath_pronunciation": "R-o-th",
+    "english_correct": "Armpit",
+    "english_one": "Hip",
+    "english_two": "Knuckle",
+    "english_three": "finger",
+    "image":""
   },
   {
-   "Id": 15,
-   "thokNaath": "jic",
-    "english": "stomach"
+    "Id": 15,
+    "thokNaath": "Jic",
+    "thokNaath_pronunciation": "J-e-tch",
+    "english_correct": "Stomach",
+    "english_one": "Nostril",
+    "english_two": "toes",
+    "english_three": "Eyebrow",
+    "image":""
   },
   {
-   "Id": 16,
-   "thokNaath": "nhiam",
-    "english": "face"
+    "Id": 16,
+    "thokNaath": "Nhiam",
+    "thokNaath_pronunciation": "N-iam",
+    "english_correct": "Face",
+    "english_one": "Back",
+    "english_two": "Fist",
+    "english_three": "Calf",
+    "image":""
+
   },
   {
-   "Id": 17,
-   "thokNaath": "wi̱c",
-    "english": "head"
+    "Id": 17,
+    "thokNaath": "Wi̱c",
+    "thokNaath_pronunciation": "W-itch",
+    "english_correct": "Head",
+    "english_one": "Belly",
+    "english_two": "Eye",
+    "english_three": "Leg",
+    "image":""
   },
   {
-   "Id": 18,
-   "thokNaath": "ŋith",
-    "english": "brain"
+    "Id": 18,
+    "thokNaath": "ŋith",
+    "thokNaath_pronunciation": "ŋ-ee-th",
+    "english_correct": "Brain",
+    "english_one": "Nose",
+    "english_two": "Toes",
+    "english_three": "Finger",
+    "image":""
   },
   {
-   "Id": 19,
-   "thokNaath": "lɔc",
-    "english": "heart"
+    "Id": 19,
+    "thokNaath": "Lɔc",
+    "thokNaath_pronunciation": "L-o-ch",
+    "english_correct": "Heart",
+    "english_one": "Waist",
+    "english_two": "Eyelash",
+    "english_three": "Thumb",
+    "image":""
   },
   {
-   "Id": 20,
-   "thokNaath": "",
-    "english": ""
+    "Id": 20,
+    "thokNaath": "Yɛ̈t",
+    "thokNaath_pronunciation": "Y-et",
+    "english_correct": "finger",
+    "english_one": "Nose",
+    "english_two": "Thumb",
+    "english_three": "Hand",
+    "image":""
   }
 ]
