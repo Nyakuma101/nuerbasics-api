@@ -7,7 +7,7 @@
     "english_one": "Head",
     "english_two": "Toes",
     "english_three": "Finger",
-    "image":"http://localhost:5050/public/Images/anatomy/nose.png"
+    "image":"http://localhost:5050/public/Nose.jpg"
 
 
    
@@ -15,12 +15,12 @@
   {
     "Id": 1,
     "thokNaath": "Wi̱c",
-    "thokNaath_pronunciation": "Which",
+    "thokNaath_pronunciation": "Wh-ich",
     "english_correct": "Head",
     "english_one": "Leg",
     "english_two": "Nostril",
     "english_three": "Eye",
-    "image":"http://localhost:5050/public/goose.png"
+    "image":"http://localhost:5050/public/Head.jpg"
   },
   {
     "Id": 2,
@@ -30,7 +30,7 @@
     "english_one": "Chin",
     "english_two": "Head",
     "english_three": "Fist",
-    "image": "Images/anatomy/Eyes-pana.png"
+    "image":"http://localhost:5050/public/Eye.png"
   },
   {
     "Id": 3,
@@ -40,7 +40,7 @@
     "english_one": "Arm",
     "english_two": "Calf",
     "english_three": "Finger",
-    "image":""
+    "image":"http://localhost:5050/public/Chin.jpg"
   },
   {
     "Id": 4,
@@ -50,7 +50,7 @@
     "english_one": "nose",
     "english_two": "toes",
     "english_three": "finger",
-    "image":""
+    "image":"http://localhost:5050/public/Mouth2.jpg"
   },
   {
     "Id": 5,
@@ -60,7 +60,7 @@
     "english_one": "Forearm",
     "english_two": "Wrist",
     "english_three": "Buttocks",
-    "image":""
+    "image":"http://localhost:5050/public/Face2.jpg"
   },
   {
     "Id": 6,
@@ -70,7 +70,7 @@
     "english_one": "Foot",
     "english_two": "Forhead",
     "english_three": "Shoulder",
-    "image":""
+    "image":"http://localhost:5050/public/Hair.jpg"
   },
   {
     "Id": 7,
@@ -80,17 +80,17 @@
     "english_one": "Ankle",
     "english_two": "Finger",
     "english_three": "Cheek",
-    "image":""
+    "image":"http://localhost:5050/public/Body.jpg"
   },
   {
     "Id": 8,
     "thokNaath": "Ji̱th",
-    "thokNaath_pronunciation": "J-i-th",
+    "thokNaath_pronunciation": "J-ith",
     "english_correct": "Ear",
     "english_one": "Cheek",
     "english_two": "Neck",
     "english_three": "Toes",
-    "image":""
+    "image":"http://localhost:5050/public/Ear2.jpg"
   },
   {
     "Id": 9,
@@ -100,7 +100,7 @@
     "english_one": "Toes",
     "english_two": "Mouth",
     "english_three": "Fingers",
-    "image":""
+    "image":"http://localhost:5050/public/Foot2.jpg"
   },
   {
     "Id": 10,
@@ -108,19 +108,19 @@
     "thokNaath_pronunciation": "M-u-o-l",
     "english_correct": "Knee",
     "english_one": "Waist",
-    "english_two": "ear",
+    "english_two": "Ear",
     "english_three": "Thigh",
-    "image":""
+    "image":"http://localhost:5050/public/Knee5.jpg"
   },
   {
     "Id": 11,
     "thokNaath": "Tet",
     "thokNaath_pronunciation": "T-ea-t",
-    "english_correct": "hand",
-    "english_one": "nose",
+    "english_correct": "Hand",
+    "english_one": "Nose",
     "english_two": "toes",
     "english_three": "Leg",
-    "image":""
+    "image":"http://localhost:5050/public/Hand.jpg"
   },
   {
     "Id": 12,
@@ -130,7 +130,7 @@
     "english_one": "Knee",
     "english_two": "Forehead",
     "english_three": "Ankle",
-    "image":""
+    "image":"http://localhost:5050/public/Finger.jpg"
   },
   {
     "Id": 13,
@@ -140,7 +140,7 @@
     "english_one": "Tooth",
     "english_two": "Wrist",
     "english_three": "finger",
-    "image":""
+    "image":"http://localhost:5050/public/Elbow.jpg"
   },
   {
     "Id": 14,
@@ -150,7 +150,7 @@
     "english_one": "Hip",
     "english_two": "Knuckle",
     "english_three": "finger",
-    "image":""
+    "image":"http://localhost:5050/public/Armpit.jpg"
   },
   {
     "Id": 15,
@@ -160,7 +160,7 @@
     "english_one": "Nostril",
     "english_two": "toes",
     "english_three": "Eyebrow",
-    "image":""
+    "image":"http://localhost:5050/public/Stomach.jpg"
   },
   {
     "Id": 16,
@@ -170,7 +170,7 @@
     "english_one": "Back",
     "english_two": "Fist",
     "english_three": "Calf",
-    "image":""
+    "image":"http://localhost:5050/public/Face2.jpg"
 
   },
   {
@@ -181,7 +181,7 @@
     "english_one": "Belly",
     "english_two": "Eye",
     "english_three": "Leg",
-    "image":""
+    "image":"http://localhost:5050/public/Head.jpg"
   },
   {
     "Id": 18,
@@ -191,7 +191,7 @@
     "english_one": "Nose",
     "english_two": "Toes",
     "english_three": "Finger",
-    "image":""
+    "image":"http://localhost:5050/public/Brain.jpg"
   },
   {
     "Id": 19,
@@ -201,16 +201,16 @@
     "english_one": "Waist",
     "english_two": "Eyelash",
     "english_three": "Thumb",
-    "image":""
+    "image":"http://localhost:5050/public/Heart.jpg"
   },
   {
     "Id": 20,
     "thokNaath": "Yɛ̈t",
     "thokNaath_pronunciation": "Y-et",
-    "english_correct": "finger",
+    "english_correct": "Finger",
     "english_one": "Nose",
     "english_two": "Thumb",
     "english_three": "Hand",
-    "image":""
+    "image":"http://localhost:5050/public/Finger.jpg"
   }
 ]

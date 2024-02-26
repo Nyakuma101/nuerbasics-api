@@ -1,212 +1,213 @@
 [
   {
     "Id": 0,
-    "thokNaath": "kuɔ̱ɔ̱t",
-    "thokNaath_pronunciation": "W-omb",
-    "english_correct": "cat",
-    "english_one": "Head",
-    "english_two": "Toes",
-    "english_three": "Finger",
-    "image":"http://localhost:5050/public/Images/anatomy/nose.png"
+    "thokNaath": "Kuɔ̱ɔ̱t",
+    "thokNaath_pronunciation": "K-oo-t",
+    "english_correct": "Cat",
+    "english_one": "Tiger",
+    "english_two": "Lion",
+    "english_three": "Zebra",
+    "image":"http://localhost:5050/public/cat.png"
   },
   {
     "Id": 1,
-    "thokNaath": "rɔw",
-    "thokNaath_pronunciation": "W-omb",
-    "English_correct": "hippoptamus",
+    "thokNaath": "Rɔw",
+    "thokNaath_pronunciation": "R-ow",
+    "english_correct": "Hippoptamus",
     "english_one": "Head",
-    "english_two": "Toes",
-    "english_three": "Finger",
-    "image":"http://localhost:5050/public/Images/anatomy/nose.png"
+    "english_two": "Lion",
+    "english_three": "Zebra",
+    "image":"http://localhost:5050/public/hippoptamus.png"
   },
   {
     "Id": 2,
-    "thokNaath": "lony",
-    "thokNaath_pronunciation": "W-omb",
-    "English_correct": "lion",
+    "thokNaath": "Lony",
+    "thokNaath_pronunciation": "L-ou-ny",
+    "english_correct": "Lion",
     "english_one": "Head",
-    "english_two": "Toes",
-    "english_three": "Finger",
-    "image":"http://localhost:5050/public/Images/anatomy/nose.png"
+    "english_two": "Lion",
+    "english_three": "Zebra",
+    "image":"http://localhost:5050/public/Lion.png"
   },
   {
     "Id": 3,
-    "thokNaath": "nyaŋ",
-    "thokNaath_pronunciation": "W-omb",
-    "English_correct": "crocodile",
+    "thokNaath": "Nyaŋ",
+    "thokNaath_pronunciation": "Ny-ang",
+    "english_correct": "Crocodile",
     "english_one": "Head",
-    "english_two": "Toes",
-    "english_three": "Finger",
-    "image":"http://localhost:5050/public/Images/anatomy/nose.png"
+    "english_two": "Lion",
+    "english_three": "Zebra",
+    "image":"http://localhost:5050/public/Crocodile.png"
   },
   {
     "Id": 4,
-    "thokNaath": "tuaar",
-    "thokNaath_pronunciation": "W-omb",
-    "English_correct": "bee",
+    "thokNaath": "Tuaar",
+    "thokNaath_pronunciation": "T-uar",
+    "english_correct": "Bee",
     "english_one": "Head",
-    "english_two": "Toes",
-    "english_three": "Finger",
-    "image":"http://localhost:5050/public/Images/anatomy/nose.png"
+    "english_two": "Antalope",
+    "english_three": "Zebra",
+    "image":"http://localhost:5050/public/Bee.png"
   },
   {
     "Id": 5,
-    "thokNaath": "jio̱k",
-    "thokNaath_pronunciation": "W-omb",
-    "English_correct": "dog" ,
+    "thokNaath": "Jio̱k",
+    "thokNaath_pronunciation": "J-iok",
+    "english_correct": "Dog" ,
     "english_one": "Head",
-    "english_two": "Toes",
-    "english_three": "Finger",
-    "image":"http://localhost:5050/public/Images/anatomy/nose.png"
+    "english_two": "Lion",
+    "english_three": "Zebra",
+    "image":"http://localhost:5050/public/Dog.jpg"
   },
   {
     "Id": 6,
-    "thokNaath": "kacik",
-    "thokNaath_pronunciation": "W-omb",
-    "English_correct": "donkey" ,
+    "thokNaath": "Kacik",
+    "thokNaath_pronunciation": "K-shing",
+    "english_correct": "Donkey" ,
     "english_one": "Head",
-    "english_two": "Toes",
-    "english_three": "Finger",
-    "image":"http://localhost:5050/public/Images/anatomy/nose.png"
+    "english_two": "Lion",
+    "english_three": "Zebra",
+    "image":"http://localhost:5050/public/Donkey.png"
   },
   {
     "Id": 7,
-    "thokNaath": "guɔ̱r",
-    "thokNaath_pronunciation": "W-omb",
-    "English_correct": "elephant",
+    "thokNaath": "Guɔ̱r",
+    "thokNaath_pronunciation": "G-uor",
+    "english_correct": "Elephant",
     "english_one": "Head",
-    "english_two": "Toes",
-    "english_three": "Finger",
-    "image":"http://localhost:5050/public/Images/anatomy/nose.png" 
+    "english_two": "Lion",
+    "english_three": "Zebra",
+    "image":"http://localhost:5050/public/Elephant.png" 
   },
   {
     "Id": 8,
-    "thokNaath": "diɛɛr",
-    "thokNaath_pronunciation": "W-omb",
-    "English_correct": "cricket" ,
+    "thokNaath": "Diɛɛr",
+    "thokNaath_pronunciation": "Di-ear",
+    "english_correct": "Cricket" ,
     "english_one": "Head",
-    "english_two": "Toes",
-    "english_three": "Finger",
-    "image":"http://localhost:5050/public/Images/anatomy/nose.png"
+    "english_two": "Lion",
+    "english_three": "Zebra",
+    "image":"http://localhost:5050/public/Cricket.png"
   },
   {
     "Id": 9,
-    "thokNaath": "yew",
-    "thokNaath_pronunciation": "W-omb",
-    "English_correct": "catfish",
+    "thokNaath": "Yew",
+    "thokNaath_pronunciation": "Y-ew",
+    "english_correct": "Catfish",
     "english_one": "Head",
-    "english_two": "Toes",
-    "english_three": "Finger",
-    "image":"http://localhost:5050/public/Images/anatomy/nose.png"
+    "english_two": "Lion",
+    "english_three": "Zebra",
+    "image":"http://localhost:5050/public/Catfish.png"
   },
   {
     "Id": 10,
-    "thokNaath": "luth",
-    "thokNaath_pronunciation": "W-omb",
-    "English_correct": "mudfish","english_one": "Head",
-    "english_two": "Toes",
-    "english_three": "Finger",
-    "image":"http://localhost:5050/public/Images/anatomy/nose.png"
+    "thokNaath": "Luth",
+    "thokNaath_pronunciation": "L-uth",
+    "english_correct": "Mudfish",
+    "english_one": "Head",
+    "english_two": "Lion",
+    "english_three": "Zebra",
+    "image":"http://localhost:5050/public/Mudfish.png"
   },
   {
     "Id": 11,
-    "thokNaath": "riel",
-    "thokNaath_pronunciation": "W-omb",
-    "English_correct": "eel",
+    "thokNaath": "Riel",
+    "thokNaath_pronunciation": "R-eal",
+    "english_correct": "Eel",
     "english_one": "Head",
-    "english_two": "Toes",
-    "english_three": "Finger",
-    "image":"http://localhost:5050/public/Images/anatomy/nose.png"
+    "english_two": "Lion",
+    "english_three": "Zebra",
+    "image":"http://localhost:5050/public/Eel.jpg"
   },
   {
     "Id": 12,
-    "thokNaath": "ti̱el",
-    "thokNaath_pronunciation": "W-omb",
-    "English_correct": "fish",
+    "thokNaath": "Ti̱el",
+    "thokNaath_pronunciation": "T-eal",
+    "english_correct": "Fish",
     "english_one": "Head",
-    "english_two": "Toes",
-    "english_three": "Finger",
-    "image":"http://localhost:5050/public/Images/anatomy/nose.png"
+    "english_two": "Lion",
+    "english_three": "Zebra",
+    "image":"http://localhost:5050/public/Fish.jpg"
   },
   {
     "Id": 13,
-    "thokNaath": "wuut",
-    "thokNaath_pronunciation": "W-omb",
-    "English_correct": "ostrich",
+    "thokNaath": "Wuut",
+    "thokNaath_pronunciation": "W-oot",
+    "english_correct": "Ostrich",
     "english_one": "Head",
-    "english_two": "Toes",
-    "english_three": "Finger",
-    "image":"http://localhost:5050/public/Images/anatomy/nose.png"
+    "english_two": "Lion",
+    "english_three": "Zebra",
+    "image":"http://localhost:5050/public/Ostrich.jpg"
   },
   {
     "Id": 14,
-    "thokNaath": "tuɔ̱t",
-    "thokNaath_pronunciation": "W-omb",
-    "English_correct": "goose",
+    "thokNaath": "Tuɔ̱t",
+    "thokNaath_pronunciation": "T-uot",
+    "english_correct": "Goose",
     "english_one": "Head",
-    "english_two": "Toes",
-    "english_three": "Finger",
-    "image":"http://localhost:5050/public/Images/anatomy/nose.png"
+    "english_two": "Lion",
+    "english_three": "Zebra",
+    "image":"http://localhost:5050/public/Goose.jpg"
   },
   {
     "Id": 15,
-    "thokNaath": "miit",
-    "thokNaath_pronunciation": "W-omb",
-    "English_correct": "firefly",
+    "thokNaath": "Miit",
+    "thokNaath_pronunciation": "M-eet",
+    "english_correct": "Firefly",
     "english_one": "Head",
-    "english_two": "Toes",
-    "english_three": "Finger",
-    "image":"http://localhost:5050/public/Images/anatomy/nose.png"
+    "english_two": "Lion",
+    "english_three": "Zebra",
+    "image":"http://localhost:5050/public/Firefly.jpg"
   },
   {
     "Id": 16,
-    "thokNaath": "manpalɛ̈k",
-    "thokNaath_pronunciation": "W-omb",
-    "English_correct": "hen",
+    "thokNaath": "Manpalɛ̈k",
+    "thokNaath_pronunciation": "Man-pa-le",
+    "english_correct": "Hen",
     "english_one": "Head",
-    "english_two": "Toes",
-    "english_three": "Finger",
-    "image":"http://localhost:5050/public/Images/anatomy/nose.png"
+    "english_two": "Lion",
+    "english_three": "Zebra",
+    "image":"http://localhost:5050/public/Hen.png"
   },
   {
     "Id": 17,
-    "thokNaath": "käät",
-    "thokNaath_pronunciation": "W-omb",
-    "English_correct": "hawk",
+    "thokNaath": "Käät",
+    "thokNaath_pronunciation": "K-eat",
+    "english_correct": "Hawk",
     "english_one": "Head",
-    "english_two": "Toes",
-    "english_three": "Finger",
-    "image":"http://localhost:5050/public/Images/anatomy/nose.png"
+    "english_two": "Lion",
+    "english_three": "Zebra",
+    "image":"http://localhost:5050/public/Hawk.jpg"
   },
   {
     "Id": 18,
-    "thokNaath": "guɛk",
-    "thokNaath_pronunciation": "W-omb",
-    "English_correct": "frog",
+    "thokNaath": "Guɛk",
+    "thokNaath_pronunciation": "Gw-eck",
+    "english_correct": "Frog",
     "english_one": "Head",
-    "english_two": "Toes",
-    "english_three": "Finger",
-    "image":"http://localhost:5050/public/Images/anatomy/nose.png"
+    "english_two": "Lion",
+    "english_three": "Zebra",
+    "image":"http://localhost:5050/public/Frog.png"
   },
   {
     "Id": 19,
-    "thokNaath": "kerker",
-    "thokNaath_pronunciation": "W-omb",
-    "English_correct": "lizard",
+    "thokNaath": "Kerker",
+    "thokNaath_pronunciation": "Ker-ker",
+    "english_correct": "Lizard",
     "english_one": "Head",
-    "english_two": "Toes",
-    "english_three": "Finger",
-    "image":"http://localhost:5050/public/Images/anatomy/nose.png"
+    "english_two": "Lion",
+    "english_three": "Zebra",
+    "image":"http://localhost:5050/public/Lizard.png"
   },
   {
     "Id": 20,
-    "thokNaath": "miit",
-    "thokNaath_pronunciation": "W-omb",
-    "English_correct": "firefly",
+    "thokNaath": "Miit",
+    "thokNaath_pronunciation": "M-eet",
+    "english_correct": "Firefly",
     "english_one": "Head",
-    "english_two": "Toes",
-    "english_three": "Finger",
-    "image":"http://localhost:5050/public/Images/anatomy/nose.png"
+    "english_two": "Lion",
+    "english_three": "Zebra",
+    "image":"http://localhost:5050/public/Firefly.jpg"
   }
 ]
 
