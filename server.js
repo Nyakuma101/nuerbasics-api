@@ -1,4 +1,3 @@
-// const knex = require("knex")(require("./knexfile"));
 const express = require("express");
 const cors = require("cors");
 const anatomyRoute = require("./routes/anatomyRoute.js");
